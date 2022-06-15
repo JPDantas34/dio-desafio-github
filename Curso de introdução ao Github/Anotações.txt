@@ -34,4 +34,4 @@ criada pelo John Gruber e Aaron. Para deixar mais organizado devo usar as # onde
 	OBS: nesse comando segue a mesma logica do  html para escrever titulos e sobe títulos
 indo de h1 a h6.
 	
-	Esse foi um pequno resumo do curso de introdução ao git e github 
+	Esse foi um pequno resumo do curso de introdução ao git e github de 5 horas de duração
