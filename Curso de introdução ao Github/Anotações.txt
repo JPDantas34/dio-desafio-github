@@ -1,0 +1,37 @@
+Sobre o curso: 
+
+ Durante o curso foi ensinado sobre o que seria o Git e o GitHub
+onde o Git é uma sistema de versionamento de arquivos onde a sua navegação é via
+comand line interface algo parecido com o cmd do windows, já o GitHub teria a
+mesma função do git mas com o diferencial de uma interface gráfica.
+
+ - Os comando básicos do git seriam:
+	* CD - navega entre as pastas;
+		ex: cd (nome da pasta que deseja acessar)
+		ex: cd .. (respomsavel por retroceder uma pasta)
+	* ls/dir - listar as pastas e arquivos(git)/ dir mesma função do ls do git mas, 
+	no cmd do Windows;
+	* mkdir - Cria pastas;
+	* del/rmdir - deleta arquivos / remove pastas;
+	* cls / ctrl + L - cls limpa a tela do git bash/ ctrl + L faz a mesma coisa no
+	terminal do git.
+ No curso também aprendi sobre chave SSH e tokem onde ambos estão relacionados a repositórios
+remotos.
+ 
+ - Comandos para manipulação dos arquivos:
+	* git initi - inicia repositóros;
+	* git add - adiciona uma alteração no repositório ativo;
+	       	variação (git add * - aplica todas as alterações globalemte aos aquivos
+		modificados.)
+	* git commit - adciona um comentario ao repositório.
+ 
+ E para a criação de arquivos README.md bem estruturados é preciso usar um editor de texto 
+com a extenção .md onde esse tipo de editor que é uma linguagem simples de marcação que foi
+criada pelo John Gruber e Aaron. Para deixar mais organizado devo usar as # onde segui esse comandos:
+	* # para títulos (h1)
+	* ## subtitulos (h2)
+	* ### subtítulos (h3)
+	OBS: nesse comando segue a mesma logica do  html para escrever titulos e sobe títulos
+indo de h1 a h6.
+	
+	Esse foi um pequno resumo do curso de introdução ao git e github 
